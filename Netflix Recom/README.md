@@ -1,0 +1,1 @@
+A Netflix "Like" recommender system, tried to implement the SVD++ algorithm by Yehuda Koren.

@@ -1,0 +1,1 @@
+An implementation of a Generative Adversial Network in a semi supervied fashion, modified to contain two discriminators instead of just one.
